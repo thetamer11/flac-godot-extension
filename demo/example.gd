@@ -2,5 +2,5 @@ extends Node
 
 
 func _ready() -> void:
-	var example := ExampleClass.new()
-	example.print_type(example)
+	var example := load("res://Celestaphone & Dealers of God - Cult Subterranea - 01 Deep Underground.flac")
+	
